@@ -1,0 +1,15 @@
+C:\Users\Ulises\source\repos\SosaUlisesParcial\SosaUlisesParcial\bin\Debug\SosaUlisesParcial.exe.config
+C:\Users\Ulises\source\repos\SosaUlisesParcial\SosaUlisesParcial\bin\Debug\SosaUlisesParcial.exe
+C:\Users\Ulises\source\repos\SosaUlisesParcial\SosaUlisesParcial\bin\Debug\SosaUlisesParcial.pdb
+C:\Users\Ulises\source\repos\SosaUlisesParcial\SosaUlisesParcial\obj\Debug\SosaUlisesParcial.csproj.AssemblyReference.cache
+C:\Users\Ulises\source\repos\SosaUlisesParcial\SosaUlisesParcial\obj\Debug\SosaUlisesParcial.Form1.resources
+C:\Users\Ulises\source\repos\SosaUlisesParcial\SosaUlisesParcial\obj\Debug\SosaUlisesParcial.FormAddAlimento.resources
+C:\Users\Ulises\source\repos\SosaUlisesParcial\SosaUlisesParcial\obj\Debug\SosaUlisesParcial.Properties.Resources.resources
+C:\Users\Ulises\source\repos\SosaUlisesParcial\SosaUlisesParcial\obj\Debug\SosaUlisesParcial.csproj.GenerateResource.cache
+C:\Users\Ulises\source\repos\SosaUlisesParcial\SosaUlisesParcial\obj\Debug\SosaUlisesParcial.csproj.CoreCompileInputs.cache
+C:\Users\Ulises\source\repos\SosaUlisesParcial\SosaUlisesParcial\obj\Debug\SosaUlisesParcial.exe
+C:\Users\Ulises\source\repos\SosaUlisesParcial\SosaUlisesParcial\obj\Debug\SosaUlisesParcial.pdb
+C:\Users\Ulises\source\repos\SosaUlisesParcial\SosaUlisesParcial\obj\Debug\SosaUlisesParcial.FormAddActFisica.resources
+C:\Users\Ulises\source\repos\SosaUlisesParcial\SosaUlisesParcial\obj\Debug\SosaUlisesParcial.FormCaloriasConsumidas.resources
+C:\Users\Ulises\source\repos\SosaUlisesParcial\SosaUlisesParcial\obj\Debug\SosaUlisesParcial.FormCaloriasQuemadas.resources
+C:\Users\Ulises\source\repos\SosaUlisesParcial\SosaUlisesParcial\obj\Debug\SosaUlisesParcial.FormResumen.resources
